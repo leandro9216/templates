@@ -1,5 +1,4 @@
 ## Description
-
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 **Related tickets(if needed):**
@@ -20,7 +19,6 @@ Please describe the classes that you created or modified
 -  Created Ui files
 
 ## Type of change
-
 Please delete options that are not relevant.
 
 - Bug fix (non-breaking change which fixes an issue)
@@ -28,18 +26,15 @@ Please delete options that are not relevant.
 - Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 ## Tests created or modified 
-
 Please describe the tests that you ran to verify your changes. 
 
 - Test A
 - Test B
 
 ## Screenshot or gif:
-
-Please describe the tests that you ran to verify your changes. 
+Screenshot or make a gif of your pr if you consider that will add extra value. 
 
 ## Reviews
-
 Please identify two developers to review this change
 
 -  @personA
