@@ -2,13 +2,13 @@
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-**Related tickets:**
+**Related tickets(if needed):**
   - CHC-9999
   
-**Design reference:**
+**Design reference(if needed):**
   - https://zeplin.io/
 
-**Dev reference:**
+**Dev reference(if needed):**
   - https://developer.android.com/guide
 
 ## Code changes:
