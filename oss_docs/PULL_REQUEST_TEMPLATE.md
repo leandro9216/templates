@@ -33,9 +33,3 @@ Please describe the tests that you ran to verify your changes.
 
 ## Screenshot or gif:
 Screenshot or make a gif of your pr if you consider that will add extra value. 
-
-## Reviews
-Please identify two developers to review this change
-
--  @personA
--  @personB
