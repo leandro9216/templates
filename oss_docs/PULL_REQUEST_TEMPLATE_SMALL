@@ -7,7 +7,7 @@ Please include a summary of the change and which issue is fixed. Please also inc
 **Dev reference(if needed):**
   - https://developer.android.com/guide
 
-## Code changes:
+## Relevant code changes:
 Please describe the classes that you created or modified 
 
 -  ClassRequestA was created to consume xxx endpoint
