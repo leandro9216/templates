@@ -1,11 +1,5 @@
 ## Description
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
-  
-**Design reference(if needed):**
-  - https://zeplin.io/
-
-**Dev reference(if needed):**
-  - https://developer.android.com/guide
 
 ## Relevant code changes:
 Please describe the classes that you created or modified 
