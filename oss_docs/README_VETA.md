@@ -1,10 +1,3 @@
-# Veta Health
-
-Provide an introductory paragraph, describing:
-
-* What your project does
-* Why people should consider using your project
-* Link to project home page
 
 ## Table of Contents
 
@@ -24,7 +17,7 @@ Provide an introductory paragraph, describing:
 1. [Authors](#authors)
 1. [Acknowledgements](#acknowledgements)
 
-# About the Project
+# Veta Health
 
 Mobile app acts as an in-pocket health guide for patients. The content displayed in the app, and any data being collected by the app, is defined by the care pathway(s) a particular patient is a part of. Patients receive helpful information on their condition/wellbeing in the form of texts, checklists, videos etc and can manage their condition/wellbeing by tracking vital, and any patient reported outcome data. The patient will be able to understand how effectively they are managing their health and how to further improve. They will also have a direct connection to their care team in case any additional help is needed. Patients will be able to invite care takers & care team members to take part in their journey.
 
