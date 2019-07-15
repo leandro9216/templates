@@ -1,7 +1,7 @@
 
 ## Table of Contents
 
-1. [About the Project](#about-the-project)
+1. [About the Project](#veta_health)
 1. [Getting Started](#getting-started)
 	1. [Dependencies](#dependencies)
 	1. [Building](#building)
