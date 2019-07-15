@@ -73,6 +73,7 @@ Build variants:
 ## Running Tests
 
 Edit configuration
+![alt text](https://github.com/scirillo/templates/blob/master/oss_docs/Test_Config.png)
 
 ```
 Examples should be included
