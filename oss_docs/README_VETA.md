@@ -2,6 +2,7 @@
 ## Table of Contents
 
 1. [Veta Health](#veta-health)
+	1. [Documentation](#documentation)
 1. [Getting Started](#getting-started)
 	1. [Dependencies](#dependencies)
 	1. [Building](#building)
@@ -29,6 +30,15 @@ Features:
 * Alerts on critical values
 * Manage your care takers.
 * [Project site](https://myvetahealth.com/)
+
+## Documentation
+
+* [Access to Project Documentation](https://docs.google.com/document/d/1-4F2GUZ7IkVwamOVJM_YTacwchLJCLAvBMm4kIiGMMk/edit?usp=sharing)
+* [Access to Network Solution](https://docs.google.com/document/d/1hm28jA7_q6sjjJ7k8w2jJt1ZNsFeUyZPdeSjHaB5Ang/edit?usp=sharing)
+* [Access to Project UML](https://drive.google.com/file/d/19WckgkNQNKunnoO43J0hcxWwPdE-TYGT/view?usp=sharing)
+
+
+
 
 **[Back to top](#table-of-contents)**
 
