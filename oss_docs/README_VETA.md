@@ -35,7 +35,7 @@ Features:
 * Educational content
 * Alerts on critical values
 * Manage your care takers.
-* [[Project site](https://myvetahealth.com/)
+* [Project site](https://myvetahealth.com/)
 
 **[Back to top](#table-of-contents)**
 
